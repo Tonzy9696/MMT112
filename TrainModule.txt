@@ -1,0 +1,2 @@
+Scenario 1 : Book a train ticket from chennai to bangalore
+Scenario 2 : Cancel a Train Ticket
