@@ -1,2 +1,5 @@
 Scenario 1 : Book a train ticket from chennai to bangalore
 Scenario 2 : Cancel a Train Ticket
+
+Scenario 3 : Book return train
+Scenario 4 : Schedule time change
