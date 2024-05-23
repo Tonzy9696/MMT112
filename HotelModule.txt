@@ -1,2 +1,5 @@
 scenario 1: Book a hotel in bangalore
 scenario 2 : Cancel the hotel booking
+
+scenario 3: Book a hotel in chennai
+scenario 4 : cancel hotel booking in chennai
